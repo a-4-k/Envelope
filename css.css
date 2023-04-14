@@ -132,8 +132,7 @@
 
 .greetings {
     position: relative;
-    height: 500px;
-    width: 55%;
+    height: 100%;
     margin: auto;
 }
 
@@ -145,8 +144,8 @@
     right: 0;
     margin: 50px auto;
     padding: 20px;
-    background: rgba(54, 20, 0, 0.85);
-    color: #FFFFFF;
+    background: #f2eecb;
+    color: black;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
